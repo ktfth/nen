@@ -1,3 +1,8 @@
+---
+name: healing
+description: Monitora e recupera degradação de contexto em sessões longas ou complexas. Detecta drift, bloat, fragmentação e scope creep. Aplica recovery proporcional (L1/L2/L3) de forma silenciosa.
+---
+
 # SKILL: healing
 
 ## Purpose
